@@ -1,0 +1,156 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.main {
+    max-width: 1080px;
+    height: fit-content;
+    margin: 0 auto;
+}
+
+.main h1 {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 59px;
+    text-align: center;
+}
+
+.main p {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+    margin-top: 24px;
+    text-align: center;
+
+}
+
+.macbook-img-main {
+    width: 680px;
+    height: 260px;
+    margin: 63px auto;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.macbook-left-img-box {
+    width: 40%;
+    height: 100%;
+
+}
+
+
+.macbook-right-prixe-box {
+    width: 50%;
+    height: 100%;
+}
+
+.top-box h1 {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 59px;
+
+}
+
+.swap-color-name {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+    color: #0071E3;
+}
+
+.bot-price {
+    margin-top: 48px;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 59px;
+
+}
+
+.button-main-box {
+    width: 321px;
+    margin: 0 auto;
+}
+
+.button-top-box {
+    width: 100%;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.white-btn{
+    width: 155px;
+    height: 45px;
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+    text-align: center;
+}
+.grey-btn{
+    width: 155px;
+    height: 45px;
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+    text-align: center;
+}
+.color-on{
+    background-color: #0071E3;
+    color: white;
+}
+.color-off{
+    background-color: #CFE7FF;
+    color: #797979;
+}
+.button-bot-box {
+    width: 100%;
+    height: 250px;
+    margin-top: 40px;
+}
+
+.btn-box {
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid #CFE7FF;
+    border-radius: 10px;
+    margin-top: 7px;
+    padding-left: 20px;
+    padding-bottom: 17px;
+    padding-right: 20px;
+}
+
+.btn-box p {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+}
+
+.plus {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 17px;
+}
+
+.boxc{
+    border: 2px solid #007FFF;
+}
+.boxc-2{
+    border: 2px solid #007FFF;
+}
+.boxc-3{
+    border: 2px solid #007FFF;
+}
+.boxc-4{
+    border: 2px solid #007FFF;
+}
